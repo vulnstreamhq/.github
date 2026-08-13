@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="../assets/vulnstream-mark.svg" width="112" alt="Vulnstream">
-</p>
-
 # Vulnstream
+
+![Vulnstream mark](../assets/vulnstream-mark.svg)
 
 **Dependable change-data infrastructure for vulnerability intelligence.**
 

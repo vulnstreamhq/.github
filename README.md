@@ -25,6 +25,11 @@ security reports, internal architecture, package inventories, or production
 configuration here. Member-only organization-profile content belongs in a
 private `.github-private` repository if that surface is needed later.
 
+Third-party source and product names may be used only to identify compatibility
+or provenance. Do not add upstream logos, imply endorsement, or copy upstream
+data into this repository. Keep required data-license notices with the product
+outputs and documentation that actually reproduce the data.
+
 ## Updating the profile
 
 Profile changes should update the approved brand asset and public copy in the
@@ -38,3 +43,5 @@ same review. Before merging:
    light and dark GitHub themes.
 4. Run Markdown lint and inspect the rendered organization overview.
 5. Verify that no confidential or security-sensitive material is present.
+6. Recheck source-data, dependency-license, and trademark notices whenever a
+   new upstream source or named integration is introduced.

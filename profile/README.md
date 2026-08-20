@@ -1,6 +1,6 @@
 # Vulnstream
 
-![Abstract stream of source records becoming ordered, verifiable vulnerability events](../assets/vulnstream-hero.png)
+![Vulnstream wordmark above an abstract stream of source records becoming ordered, verifiable vulnerability events](../assets/vulnstream-hero.png)
 
 **Dependable change-data infrastructure for vulnerability intelligence.**
 
